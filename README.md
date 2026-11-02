@@ -18,6 +18,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+- <b>Hardware</b>
+- [Hardware Building]
+- [Software Optimization]
+- [Systen Maintenance]
 <h2> 🤳 How to reach me:</h2>
 @robjackmelljack@gmail.com
 
