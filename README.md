@@ -18,11 +18,11 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>AI</b>
-- [Ai Metadata Image Editor](https://xypher7.github.io/ai-image-metadata-editor/)
+  - [Ai Metadata Image Editor](https://xypher7.github.io/ai-image-metadata-editor/)
 - <b>Hardware</b>
-- [Hardware Building]
-- [Software Optimization]
-- [System Maintenance]
+  - [Hardware Building]
+  - [Software Optimization]
+  - [System Maintenance]
 <h2> 🤳 How to reach me:</h2>
 @robjackmelljack@gmail.com
 
