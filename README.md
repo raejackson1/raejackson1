@@ -21,7 +21,7 @@
 - <b>Hardware</b>
 - [Hardware Building]
 - [Software Optimization]
-- [Systen Maintenance]
+- [System Maintenance]
 <h2> 🤳 How to reach me:</h2>
 @robjackmelljack@gmail.com
 
